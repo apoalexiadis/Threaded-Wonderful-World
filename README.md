@@ -14,4 +14,4 @@ A C program that uses POSIX Threads and condition variables to print the sequenc
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/USERNAME/Threaded-Wonderful-World.git
+   git clone https://github.com/apoalexiadis/Threaded-Wonderful-World.git
